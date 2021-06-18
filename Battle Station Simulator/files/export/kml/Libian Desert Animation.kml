@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="41">
+            <LineStyle id="42">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="45">
+            <LineStyle id="46">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="49">
+            <LineStyle id="50">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="53">
+            <LineStyle id="54">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="57">
+            <LineStyle id="58">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="61">
+            <LineStyle id="62">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="65">
+            <LineStyle id="66">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="69">
+            <LineStyle id="70">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="73">
+            <LineStyle id="74">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="77">
+            <LineStyle id="78">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Placemark id="3">
+            <name>SYSTEM_LOCATION</name>
+            <Point id="2">
+                <coordinates>14.47737199578869,24.04503505296049,529.4542235685377</coordinates>
+            </Point>
+        </Placemark>
+        <gx:Tour>
+            <name>Play me!</name>
+            <gx:Playlist>
+                <gx:AnimatedUpdate id="6">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Soldier1_1">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="8">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="9">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Soldier1_2">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="11">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="12">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Soldier1_3">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="14">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="15">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Soldier1_4">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="17">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="18">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Soldier1_5">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="20">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="21">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Soldier1_6">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="23">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="24">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Soldier1_7">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="26">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="27">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Soldier1_8">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="29">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="30">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Soldier1_9">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="32">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="33">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Soldier1_10">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="35">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="36">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Soldier1_11">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="38">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+            </gx:Playlist>
+        </gx:Tour>
+        <Placemark id="Soldier1_1">
+            <name>Soldier1_1</name>
+            <visibility>0</visibility>
+            <styleUrl>#41</styleUrl>
+            <LineString id="39">
+                <coordinates>14.4774391382547,24.04507941139396,528.6242908759639 14.477429138254708,24.04507941139396,528.636427635537</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Soldier1_2">
+            <name>Soldier1_2</name>
+            <visibility>0</visibility>
+            <styleUrl>#45</styleUrl>
+            <LineString id="43">
+                <coordinates>14.477429138254708,24.04507941139396,528.636427635537 14.47742713825471,24.045071411393952,528.6688690602017</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Soldier1_3">
+            <name>Soldier1_3</name>
+            <visibility>0</visibility>
+            <styleUrl>#49</styleUrl>
+            <LineString id="47">
+                <coordinates>14.47742713825471,24.045071411393952,528.6688690602017 14.477419138254715,24.045071411393952,528.6816990547194</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Soldier1_4">
+            <name>Soldier1_4</name>
+            <visibility>0</visibility>
+            <styleUrl>#53</styleUrl>
+            <LineString id="51">
+                <coordinates>14.477419138254715,24.045071411393952,528.6816990547194 14.477411138254721,24.04507041139395,528.6967236624488</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Soldier1_5">
+            <name>Soldier1_5</name>
+            <visibility>0</visibility>
+            <styleUrl>#57</styleUrl>
+            <LineString id="55">
+                <coordinates>14.477411138254721,24.04507041139395,528.6967236624488 14.477410138254722,24.045062411393943,528.7287282539186</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Soldier1_6">
+            <name>Soldier1_6</name>
+            <visibility>0</visibility>
+            <styleUrl>#61</styleUrl>
+            <LineString id="59">
+                <coordinates>14.477410138254722,24.045062411393943,528.7287282539186 14.477402138254728,24.04506041139394,528.745330013886</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Soldier1_7">
+            <name>Soldier1_7</name>
+            <visibility>0</visibility>
+            <styleUrl>#65</styleUrl>
+            <LineString id="63">
+                <coordinates>14.477402138254728,24.04506041139394,528.745330013886 14.477394138254734,24.04505941139394,528.7623290169706</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Soldier1_8">
+            <name>Soldier1_8</name>
+            <visibility>0</visibility>
+            <styleUrl>#69</styleUrl>
+            <LineString id="67">
+                <coordinates>14.477394138254734,24.04505941139394,528.7623290169706 14.477389138254738,24.045052411393932,528.7935517979698</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Soldier1_9">
+            <name>Soldier1_9</name>
+            <visibility>0</visibility>
+            <styleUrl>#73</styleUrl>
+            <LineString id="71">
+                <coordinates>14.477389138254738,24.045052411393932,528.7935517979698 14.477384138254742,24.045047411393927,528.8183065619324</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Soldier1_10">
+            <name>Soldier1_10</name>
+            <visibility>0</visibility>
+            <styleUrl>#77</styleUrl>
+            <LineString id="75">
+                <coordinates>14.477384138254742,24.045047411393927,528.8183065619324 14.477384138254742,24.045037411393917,528.8550127683185</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,2089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="224">
+            <LineStyle id="225">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="228">
+            <LineStyle id="229">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="232">
+            <LineStyle id="233">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="236">
+            <LineStyle id="237">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="240">
+            <LineStyle id="241">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="244">
+            <LineStyle id="245">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="248">
+            <LineStyle id="249">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="252">
+            <LineStyle id="253">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="256">
+            <LineStyle id="257">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="260">
+            <LineStyle id="261">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="264">
+            <LineStyle id="265">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="268">
+            <LineStyle id="269">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="272">
+            <LineStyle id="273">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="276">
+            <LineStyle id="277">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="280">
+            <LineStyle id="281">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="284">
+            <LineStyle id="285">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="288">
+            <LineStyle id="289">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="292">
+            <LineStyle id="293">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="296">
+            <LineStyle id="297">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="300">
+            <LineStyle id="301">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="304">
+            <LineStyle id="305">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="308">
+            <LineStyle id="309">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="312">
+            <LineStyle id="313">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="316">
+            <LineStyle id="317">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="320">
+            <LineStyle id="321">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="324">
+            <LineStyle id="325">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="328">
+            <LineStyle id="329">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="332">
+            <LineStyle id="333">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="336">
+            <LineStyle id="337">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="340">
+            <LineStyle id="341">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="344">
+            <LineStyle id="345">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="348">
+            <LineStyle id="349">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="352">
+            <LineStyle id="353">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="356">
+            <LineStyle id="357">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="360">
+            <LineStyle id="361">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="364">
+            <LineStyle id="365">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="368">
+            <LineStyle id="369">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="372">
+            <LineStyle id="373">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="376">
+            <LineStyle id="377">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="380">
+            <LineStyle id="381">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="384">
+            <LineStyle id="385">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="388">
+            <LineStyle id="389">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="392">
+            <LineStyle id="393">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="396">
+            <LineStyle id="397">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="400">
+            <LineStyle id="401">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="404">
+            <LineStyle id="405">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="408">
+            <LineStyle id="409">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="412">
+            <LineStyle id="413">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="416">
+            <LineStyle id="417">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="420">
+            <LineStyle id="421">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="424">
+            <LineStyle id="425">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="428">
+            <LineStyle id="429">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="432">
+            <LineStyle id="433">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="436">
+            <LineStyle id="437">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="440">
+            <LineStyle id="441">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="444">
+            <LineStyle id="445">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="448">
+            <LineStyle id="449">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="452">
+            <LineStyle id="453">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="456">
+            <LineStyle id="457">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="460">
+            <LineStyle id="461">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="464">
+            <LineStyle id="465">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="468">
+            <LineStyle id="469">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="472">
+            <LineStyle id="473">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="476">
+            <LineStyle id="477">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="480">
+            <LineStyle id="481">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="484">
+            <LineStyle id="485">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="488">
+            <LineStyle id="489">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="492">
+            <LineStyle id="493">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="496">
+            <LineStyle id="497">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="500">
+            <LineStyle id="501">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="504">
+            <LineStyle id="505">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Placemark id="3">
+            <name>SYSTEM_LOCATION</name>
+            <Point id="2">
+                <coordinates>-124.3395245014302,51.17386473388241,2518.101984571084</coordinates>
+            </Point>
+        </Placemark>
+        <gx:Tour>
+            <name>Play me!</name>
+            <gx:Playlist>
+                <gx:AnimatedUpdate id="6">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_1">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="8">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="9">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_2">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="11">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="12">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_3">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="14">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="15">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_4">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="17">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="18">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_5">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="20">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="21">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_6">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="23">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="24">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_7">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="26">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="27">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_8">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="29">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="30">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_9">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="32">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="33">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_10">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="35">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="36">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_11">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="38">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="39">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_12">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="41">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="42">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_13">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="44">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="45">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_14">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="47">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="48">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_15">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="50">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="51">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_16">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="53">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="54">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_17">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="56">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="57">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_18">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="59">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="60">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_19">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="62">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="63">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_20">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="65">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="66">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_21">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="68">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="69">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_22">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="71">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="72">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_23">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="74">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="75">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_24">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="77">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="78">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_25">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="80">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="81">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_26">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="83">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="84">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_27">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="86">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="87">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_28">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="89">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="90">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_29">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="92">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="93">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_30">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="95">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="96">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_31">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="98">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="99">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_32">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="101">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="102">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_33">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="104">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="105">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_34">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="107">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="108">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_35">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="110">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="111">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_36">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="113">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="114">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_37">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="116">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="117">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_38">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="119">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="120">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_39">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="122">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="123">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_40">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="125">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="126">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_41">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="128">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="129">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_42">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="131">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="132">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_43">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="134">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="135">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_44">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="137">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="138">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_45">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="140">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="141">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_46">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="143">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="144">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_47">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="146">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="147">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_48">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="149">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="150">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_49">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="152">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="153">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_50">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="155">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="156">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_51">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="158">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="159">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_52">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="161">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="162">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_53">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="164">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="165">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_54">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="167">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="168">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_55">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="170">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="171">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_56">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="173">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="174">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_57">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="176">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="177">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_58">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="179">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="180">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_59">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="182">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="183">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_60">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="185">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="186">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_61">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="188">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="189">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_62">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="191">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="192">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_63">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="194">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="195">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_64">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="197">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="198">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_65">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="200">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="201">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_66">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="203">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="204">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_67">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="206">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="207">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_68">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="209">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="210">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_69">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="212">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="213">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_70">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="215">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="216">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_71">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="218">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="219">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Helicopter2_72">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="221">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+            </gx:Playlist>
+        </gx:Tour>
+        <Placemark id="Helicopter2_1">
+            <name>Helicopter2_1</name>
+            <visibility>0</visibility>
+            <styleUrl>#224</styleUrl>
+            <LineString id="222">
+                <coordinates>-124.3394304863041,51.17969309423432,2104.805790896853 -124.34027148630197,51.17982309423399,2065.981837627919</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_2">
+            <name>Helicopter2_2</name>
+            <visibility>0</visibility>
+            <styleUrl>#228</styleUrl>
+            <LineString id="226">
+                <coordinates>-124.34027148630197,51.17982309423399,2065.981837627919 -124.34111248629985,51.17995309423366,2027.157884358985</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_3">
+            <name>Helicopter2_3</name>
+            <visibility>0</visibility>
+            <styleUrl>#232</styleUrl>
+            <LineString id="230">
+                <coordinates>-124.34111248629985,51.17995309423366,2027.157884358985 -124.34199348629762,51.17999009423357,1990.3962949059412</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_4">
+            <name>Helicopter2_4</name>
+            <visibility>0</visibility>
+            <styleUrl>#236</styleUrl>
+            <LineString id="234">
+                <coordinates>-124.34199348629762,51.17999009423357,1990.3962949059412 -124.3428774862954,51.18002009423349,1953.7977683459817</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_5">
+            <name>Helicopter2_5</name>
+            <visibility>0</visibility>
+            <styleUrl>#240</styleUrl>
+            <LineString id="238">
+                <coordinates>-124.3428774862954,51.18002009423349,1953.7977683459817 -124.34380148629306,51.179983094233584,1922.5831104471583</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_6">
+            <name>Helicopter2_6</name>
+            <visibility>0</visibility>
+            <styleUrl>#244</styleUrl>
+            <LineString id="242">
+                <coordinates>-124.34380148629306,51.179983094233584,1922.5831104471583 -124.34473048629071,51.1799370942337,1892.141286271349</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_7">
+            <name>Helicopter2_7</name>
+            <visibility>0</visibility>
+            <styleUrl>#248</styleUrl>
+            <LineString id="246">
+                <coordinates>-124.34473048629071,51.1799370942337,1892.141286271349 -124.34566648628835,51.179828094233976,1864.8383706408458</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_8">
+            <name>Helicopter2_8</name>
+            <visibility>0</visibility>
+            <styleUrl>#252</styleUrl>
+            <LineString id="250">
+                <coordinates>-124.34566648628835,51.179828094233976,1864.8383706408458 -124.34660248628599,51.179717094234256,1837.6718315635594</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_9">
+            <name>Helicopter2_9</name>
+            <visibility>0</visibility>
+            <styleUrl>#256</styleUrl>
+            <LineString id="254">
+                <coordinates>-124.34660248628599,51.179717094234256,1837.6718315635594 -124.34753748628363,51.17956409423464,1813.114503976339</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_10">
+            <name>Helicopter2_10</name>
+            <visibility>0</visibility>
+            <styleUrl>#260</styleUrl>
+            <LineString id="258">
+                <coordinates>-124.34753748628363,51.17956409423464,1813.114503976339 -124.34847248628127,51.17940309423505,1789.0558356411807</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_11">
+            <name>Helicopter2_11</name>
+            <visibility>0</visibility>
+            <styleUrl>#264</styleUrl>
+            <LineString id="262">
+                <coordinates>-124.34847248628127,51.17940309423505,1789.0558356411807 -124.34940248627892,51.17915009423569,1778.2989583010549</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_12">
+            <name>Helicopter2_12</name>
+            <visibility>0</visibility>
+            <styleUrl>#268</styleUrl>
+            <LineString id="266">
+                <coordinates>-124.34940248627892,51.17915009423569,1778.2989583010549 -124.35033148627657,51.178886094236354,1769.136500786297</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_13">
+            <name>Helicopter2_13</name>
+            <visibility>0</visibility>
+            <styleUrl>#272</styleUrl>
+            <LineString id="270">
+                <coordinates>-124.35033148627657,51.178886094236354,1769.136500786297 -124.35113648627454,51.17848909423736,1766.4027540020238</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_14">
+            <name>Helicopter2_14</name>
+            <visibility>0</visibility>
+            <styleUrl>#276</styleUrl>
+            <LineString id="274">
+                <coordinates>-124.35113648627454,51.17848909423736,1766.4027540020238 -124.35175748627297,51.1779960942386,1769.6341772878977</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_15">
+            <name>Helicopter2_15</name>
+            <visibility>0</visibility>
+            <styleUrl>#280</styleUrl>
+            <LineString id="278">
+                <coordinates>-124.35175748627297,51.1779960942386,1769.6341772878977 -124.35218648627189,51.17741409424007,1778.6983593590094</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_16">
+            <name>Helicopter2_16</name>
+            <visibility>0</visibility>
+            <styleUrl>#284</styleUrl>
+            <LineString id="282">
+                <coordinates>-124.35218648627189,51.17741409424007,1778.6983593590094 -124.35227448627167,51.176798094241626,1798.4179701230655</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_17">
+            <name>Helicopter2_17</name>
+            <visibility>0</visibility>
+            <styleUrl>#288</styleUrl>
+            <LineString id="286">
+                <coordinates>-124.35227448627167,51.176798094241626,1798.4179701230655 -124.35234448627149,51.176180094243186,1819.1599012609645</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_18">
+            <name>Helicopter2_18</name>
+            <visibility>0</visibility>
+            <styleUrl>#292</styleUrl>
+            <LineString id="290">
+                <coordinates>-124.35234448627149,51.176180094243186,1819.1599012609645 -124.3524624862712,51.17556809424473,1840.8680619951</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_19">
+            <name>Helicopter2_19</name>
+            <visibility>0</visibility>
+            <styleUrl>#296</styleUrl>
+            <LineString id="294">
+                <coordinates>-124.3524624862712,51.17556809424473,1840.8680619951 -124.35234748627148,51.175079094245966,1883.870772826659</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_20">
+            <name>Helicopter2_20</name>
+            <visibility>0</visibility>
+            <styleUrl>#300</styleUrl>
+            <LineString id="298">
+                <coordinates>-124.35234748627148,51.175079094245966,1883.870772826659 -124.35215448627197,51.1746310942471,1933.9648554096557</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_21">
+            <name>Helicopter2_21</name>
+            <visibility>0</visibility>
+            <styleUrl>#304</styleUrl>
+            <LineString id="302">
+                <coordinates>-124.35215448627197,51.1746310942471,1933.9648554096557 -124.35196148627246,51.17418309424823,1984.0589379926523</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_22">
+            <name>Helicopter2_22</name>
+            <visibility>0</visibility>
+            <styleUrl>#308</styleUrl>
+            <LineString id="306">
+                <coordinates>-124.35196148627246,51.17418309424823,1984.0589379926523 -124.35173348627303,51.17372409424939,2031.9613766419793</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_23">
+            <name>Helicopter2_23</name>
+            <visibility>0</visibility>
+            <styleUrl>#312</styleUrl>
+            <LineString id="310">
+                <coordinates>-124.35173348627303,51.17372409424939,2031.9613766419793 -124.35144348627377,51.17324709425059,2076.0331279894335</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_24">
+            <name>Helicopter2_24</name>
+            <visibility>0</visibility>
+            <styleUrl>#316</styleUrl>
+            <LineString id="314">
+                <coordinates>-124.35144348627377,51.17324709425059,2076.0331279894335 -124.3511534862745,51.172770094251796,2120.1048793368877</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_25">
+            <name>Helicopter2_25</name>
+            <visibility>0</visibility>
+            <styleUrl>#320</styleUrl>
+            <LineString id="318">
+                <coordinates>-124.3511534862745,51.172770094251796,2120.1048793368877 -124.35072948627557,51.172291094253005,2157.31667826171</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_26">
+            <name>Helicopter2_26</name>
+            <visibility>0</visibility>
+            <styleUrl>#324</styleUrl>
+            <LineString id="322">
+                <coordinates>-124.35072948627557,51.172291094253005,2157.31667826171 -124.3502414862768,51.17181109425422,2191.2684753645995</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_27">
+            <name>Helicopter2_27</name>
+            <visibility>0</visibility>
+            <styleUrl>#328</styleUrl>
+            <LineString id="326">
+                <coordinates>-124.3502414862768,51.17181109425422,2191.2684753645995 -124.34957248627849,51.171531094254924,2233.337942698045</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_28">
+            <name>Helicopter2_28</name>
+            <visibility>0</visibility>
+            <styleUrl>#332</styleUrl>
+            <LineString id="330">
+                <coordinates>-124.34957248627849,51.171531094254924,2233.337942698045 -124.34884148628034,51.17132009425546,2278.1951802735807</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_29">
+            <name>Helicopter2_29</name>
+            <visibility>0</visibility>
+            <styleUrl>#336</styleUrl>
+            <LineString id="334">
+                <coordinates>-124.34884148628034,51.17132009425546,2278.1951802735807 -124.34804348628235,51.17107009425609,2301.729579254616</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_30">
+            <name>Helicopter2_30</name>
+            <visibility>0</visibility>
+            <styleUrl>#340</styleUrl>
+            <LineString id="338">
+                <coordinates>-124.34804348628235,51.17107009425609,2301.729579254616 -124.34714048628463,51.170790094256795,2290.5254024128017</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_31">
+            <name>Helicopter2_31</name>
+            <visibility>0</visibility>
+            <styleUrl>#344</styleUrl>
+            <LineString id="342">
+                <coordinates>-124.34714048628463,51.170790094256795,2290.5254024128017 -124.34621648628696,51.1706290942572,2264.5457957514827</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_32">
+            <name>Helicopter2_32</name>
+            <visibility>0</visibility>
+            <styleUrl>#348</styleUrl>
+            <LineString id="346">
+                <coordinates>-124.34621648628696,51.1706290942572,2264.5457957514827 -124.34527348628934,51.17047509425759,2243.044411427396</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_33">
+            <name>Helicopter2_33</name>
+            <visibility>0</visibility>
+            <styleUrl>#352</styleUrl>
+            <LineString id="350">
+                <coordinates>-124.34527348628934,51.17047509425759,2243.044411427396 -124.34427448629187,51.170342094257926,2234.526208683988</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_34">
+            <name>Helicopter2_34</name>
+            <visibility>0</visibility>
+            <styleUrl>#356</styleUrl>
+            <LineString id="354">
+                <coordinates>-124.34427448629187,51.170342094257926,2234.526208683988 -124.34327548629439,51.17020909425826,2226.0080059405796</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_35">
+            <name>Helicopter2_35</name>
+            <visibility>0</visibility>
+            <styleUrl>#360</styleUrl>
+            <LineString id="358">
+                <coordinates>-124.34327548629439,51.17020909425826,2226.0080059405796 -124.34227548629691,51.1701950942583,2235.4679834255544</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_36">
+            <name>Helicopter2_36</name>
+            <visibility>0</visibility>
+            <styleUrl>#364</styleUrl>
+            <LineString id="362">
+                <coordinates>-124.34227548629691,51.1701950942583,2235.4679834255544 -124.34127548629944,51.170224094258224,2251.6692012001254</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_37">
+            <name>Helicopter2_37</name>
+            <visibility>0</visibility>
+            <styleUrl>#368</styleUrl>
+            <LineString id="366">
+                <coordinates>-124.34127548629944,51.170224094258224,2251.6692012001254 -124.34027548630196,51.17027009425811,2267.0518913573233</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_38">
+            <name>Helicopter2_38</name>
+            <visibility>0</visibility>
+            <styleUrl>#372</styleUrl>
+            <LineString id="370">
+                <coordinates>-124.34027548630196,51.17027009425811,2267.0518913573233 -124.33927548630449,51.17036309425787,2280.13791373602</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_39">
+            <name>Helicopter2_39</name>
+            <visibility>0</visibility>
+            <styleUrl>#376</styleUrl>
+            <LineString id="374">
+                <coordinates>-124.33927548630449,51.17036309425787,2280.13791373602 -124.33827548630701,51.17045609425764,2293.2239361147167</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_40">
+            <name>Helicopter2_40</name>
+            <visibility>0</visibility>
+            <styleUrl>#380</styleUrl>
+            <LineString id="378">
+                <coordinates>-124.33827548630701,51.17045609425764,2293.2239361147167 -124.33736148630932,51.17066209425712,2312.7160052393892</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_41">
+            <name>Helicopter2_41</name>
+            <visibility>0</visibility>
+            <styleUrl>#384</styleUrl>
+            <LineString id="382">
+                <coordinates>-124.33736148630932,51.17066209425712,2312.7160052393892 -124.33651348631146,51.17095509425638,2337.154575928607</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_42">
+            <name>Helicopter2_42</name>
+            <visibility>0</visibility>
+            <styleUrl>#388</styleUrl>
+            <LineString id="386">
+                <coordinates>-124.33651348631146,51.17095509425638,2337.154575928607 -124.33571448631348,51.17128409425555,2354.857331576659</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_43">
+            <name>Helicopter2_43</name>
+            <visibility>0</visibility>
+            <styleUrl>#392</styleUrl>
+            <LineString id="390">
+                <coordinates>-124.33571448631348,51.17128409425555,2354.857331576659 -124.33518348631482,51.17181109425422,2335.9714288674836</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_44">
+            <name>Helicopter2_44</name>
+            <visibility>0</visibility>
+            <styleUrl>#396</styleUrl>
+            <LineString id="394">
+                <coordinates>-124.33518348631482,51.17181109425422,2335.9714288674836 -124.33480048631579,51.172382094252775,2319.41229692769</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_45">
+            <name>Helicopter2_45</name>
+            <visibility>0</visibility>
+            <styleUrl>#400</styleUrl>
+            <LineString id="398">
+                <coordinates>-124.33480048631579,51.172382094252775,2319.41229692769 -124.33457648631635,51.173000094251215,2305.354228633829</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_46">
+            <name>Helicopter2_46</name>
+            <visibility>0</visibility>
+            <styleUrl>#404</styleUrl>
+            <LineString id="402">
+                <coordinates>-124.33457648631635,51.173000094251215,2305.354228633829 -124.33448348631659,51.17363309424962,2305.6478230212206</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_47">
+            <name>Helicopter2_47</name>
+            <visibility>0</visibility>
+            <styleUrl>#408</styleUrl>
+            <LineString id="406">
+                <coordinates>-124.33448348631659,51.17363309424962,2305.6478230212206 -124.33449348631656,51.174273094248,2314.6136237695073</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_48">
+            <name>Helicopter2_48</name>
+            <visibility>0</visibility>
+            <styleUrl>#412</styleUrl>
+            <LineString id="410">
+                <coordinates>-124.33449348631656,51.174273094248,2314.6136237695073 -124.33466648631612,51.17490409424641,2324.814422648631</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_49">
+            <name>Helicopter2_49</name>
+            <visibility>0</visibility>
+            <styleUrl>#416</styleUrl>
+            <LineString id="414">
+                <coordinates>-124.33466648631612,51.17490409424641,2324.814422648631 -124.33505248631515,51.17548209424495,2337.385316006813</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_50">
+            <name>Helicopter2_50</name>
+            <visibility>0</visibility>
+            <styleUrl>#420</styleUrl>
+            <LineString id="418">
+                <coordinates>-124.33505248631515,51.17548209424495,2337.385316006813 -124.33577048631334,51.17581409424411,2363.884131658974</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_51">
+            <name>Helicopter2_51</name>
+            <visibility>0</visibility>
+            <styleUrl>#424</styleUrl>
+            <LineString id="422">
+                <coordinates>-124.33577048631334,51.17581409424411,2363.884131658974 -124.3366174863112,51.17601309424361,2398.220821410138</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_52">
+            <name>Helicopter2_52</name>
+            <visibility>0</visibility>
+            <styleUrl>#428</styleUrl>
+            <LineString id="426">
+                <coordinates>-124.3366174863112,51.17601309424361,2398.220821410138 -124.33750348630896,51.1762140942431,2391.9841637685436</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_53">
+            <name>Helicopter2_53</name>
+            <visibility>0</visibility>
+            <styleUrl>#432</styleUrl>
+            <LineString id="430">
+                <coordinates>-124.33750348630896,51.1762140942431,2391.9841637685436 -124.33840848630668,51.17641609424259,2366.2269874860012</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_54">
+            <name>Helicopter2_54</name>
+            <visibility>0</visibility>
+            <styleUrl>#436</styleUrl>
+            <LineString id="434">
+                <coordinates>-124.33840848630668,51.17641609424259,2366.2269874860012 -124.33925448630454,51.17654009424228,2329.760584122912</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_55">
+            <name>Helicopter2_55</name>
+            <visibility>0</visibility>
+            <styleUrl>#440</styleUrl>
+            <LineString id="438">
+                <coordinates>-124.33925448630454,51.17654009424228,2329.760584122912 -124.34005748630251,51.17660709424211,2285.413411241018</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_56">
+            <name>Helicopter2_56</name>
+            <visibility>0</visibility>
+            <styleUrl>#444</styleUrl>
+            <LineString id="442">
+                <coordinates>-124.34005748630251,51.17660709424211,2285.413411241018 -124.34087448630045,51.1765310942423,2244.9266763007417</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_57">
+            <name>Helicopter2_57</name>
+            <visibility>0</visibility>
+            <styleUrl>#448</styleUrl>
+            <LineString id="446">
+                <coordinates>-124.34087448630045,51.1765310942423,2244.9266763007417 -124.34169148629839,51.17632209424283,2209.0198092717355</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_58">
+            <name>Helicopter2_58</name>
+            <visibility>0</visibility>
+            <styleUrl>#452</styleUrl>
+            <LineString id="450">
+                <coordinates>-124.34169148629839,51.17632209424283,2209.0198092717355 -124.3424394862965,51.175935094243805,2184.8156300054666</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_59">
+            <name>Helicopter2_59</name>
+            <visibility>0</visibility>
+            <styleUrl>#456</styleUrl>
+            <LineString id="454">
+                <coordinates>-124.3424394862965,51.175935094243805,2184.8156300054666 -124.34280848629557,51.17537109424523,2202.6190556627344</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_60">
+            <name>Helicopter2_60</name>
+            <visibility>0</visibility>
+            <styleUrl>#460</styleUrl>
+            <LineString id="458">
+                <coordinates>-124.34280848629557,51.17537109424523,2202.6190556627344 -124.34292248629528,51.17491209424639,2248.8982580081874</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_61">
+            <name>Helicopter2_61</name>
+            <visibility>0</visibility>
+            <styleUrl>#464</styleUrl>
+            <LineString id="462">
+                <coordinates>-124.34292248629528,51.17491209424639,2248.8982580081874 -124.34288648629537,51.17448809424746,2302.9378226745243</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_62">
+            <name>Helicopter2_62</name>
+            <visibility>0</visibility>
+            <styleUrl>#468</styleUrl>
+            <LineString id="466">
+                <coordinates>-124.34288648629537,51.17448809424746,2302.9378226745243 -124.34278648629562,51.17405609424855,2356.029890208574</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_63">
+            <name>Helicopter2_63</name>
+            <visibility>0</visibility>
+            <styleUrl>#472</styleUrl>
+            <LineString id="470">
+                <coordinates>-124.34278648629562,51.17405609424855,2356.029890208574 -124.34252748629628,51.17356409424979,2398.5171677307467</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_64">
+            <name>Helicopter2_64</name>
+            <visibility>0</visibility>
+            <styleUrl>#476</styleUrl>
+            <LineString id="474">
+                <coordinates>-124.34252748629628,51.17356409424979,2398.5171677307467 -124.34189748629787,51.173250094250584,2438.6858075875684</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_65">
+            <name>Helicopter2_65</name>
+            <visibility>0</visibility>
+            <styleUrl>#480</styleUrl>
+            <LineString id="478">
+                <coordinates>-124.34189748629787,51.173250094250584,2438.6858075875684 -124.34102148630008,51.173103094250955,2468.9004342692347</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_66">
+            <name>Helicopter2_66</name>
+            <visibility>0</visibility>
+            <styleUrl>#484</styleUrl>
+            <LineString id="482">
+                <coordinates>-124.34102148630008,51.173103094250955,2468.9004342692347 -124.34004548630254,51.173039094251116,2490.3536530787246</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_67">
+            <name>Helicopter2_67</name>
+            <visibility>0</visibility>
+            <styleUrl>#488</styleUrl>
+            <LineString id="486">
+                <coordinates>-124.34004548630254,51.173039094251116,2490.3536530787246 -124.33904948630506,51.1730050942512,2479.2184344916554</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_68">
+            <name>Helicopter2_68</name>
+            <visibility>0</visibility>
+            <styleUrl>#492</styleUrl>
+            <LineString id="490">
+                <coordinates>-124.33904948630506,51.1730050942512,2479.2184344916554 -124.33860748630617,51.173574094249766,2479.12941128963</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_69">
+            <name>Helicopter2_69</name>
+            <visibility>0</visibility>
+            <styleUrl>#496</styleUrl>
+            <LineString id="494">
+                <coordinates>-124.33860748630617,51.173574094249766,2479.12941128963 -124.33879148630571,51.17413109424836,2483.0277014380017</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_70">
+            <name>Helicopter2_70</name>
+            <visibility>0</visibility>
+            <styleUrl>#500</styleUrl>
+            <LineString id="498">
+                <coordinates>-124.33879148630571,51.17413109424836,2483.0277014380017 -124.33967948630347,51.174307094247915,2468.2781956155986</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Helicopter2_71">
+            <name>Helicopter2_71</name>
+            <visibility>0</visibility>
+            <styleUrl>#504</styleUrl>
+            <LineString id="502">
+                <coordinates>-124.33967948630347,51.174307094247915,2468.2781956155986 -124.33967848630347,51.17390909424892,2516.312835870022</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

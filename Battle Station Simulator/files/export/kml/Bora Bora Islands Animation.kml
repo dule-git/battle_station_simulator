@@ -1,0 +1,1712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="185">
+            <LineStyle id="186">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="189">
+            <LineStyle id="190">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="193">
+            <LineStyle id="194">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="197">
+            <LineStyle id="198">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="201">
+            <LineStyle id="202">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="205">
+            <LineStyle id="206">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="209">
+            <LineStyle id="210">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="213">
+            <LineStyle id="214">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="217">
+            <LineStyle id="218">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="221">
+            <LineStyle id="222">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="225">
+            <LineStyle id="226">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="229">
+            <LineStyle id="230">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="233">
+            <LineStyle id="234">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="237">
+            <LineStyle id="238">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="241">
+            <LineStyle id="242">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="245">
+            <LineStyle id="246">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="249">
+            <LineStyle id="250">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="253">
+            <LineStyle id="254">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="257">
+            <LineStyle id="258">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="261">
+            <LineStyle id="262">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="265">
+            <LineStyle id="266">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="269">
+            <LineStyle id="270">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="273">
+            <LineStyle id="274">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="277">
+            <LineStyle id="278">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="281">
+            <LineStyle id="282">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="285">
+            <LineStyle id="286">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="289">
+            <LineStyle id="290">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="293">
+            <LineStyle id="294">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="297">
+            <LineStyle id="298">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="301">
+            <LineStyle id="302">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="305">
+            <LineStyle id="306">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="309">
+            <LineStyle id="310">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="313">
+            <LineStyle id="314">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="317">
+            <LineStyle id="318">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="321">
+            <LineStyle id="322">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="325">
+            <LineStyle id="326">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="329">
+            <LineStyle id="330">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="333">
+            <LineStyle id="334">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="337">
+            <LineStyle id="338">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="341">
+            <LineStyle id="342">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="345">
+            <LineStyle id="346">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="349">
+            <LineStyle id="350">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="353">
+            <LineStyle id="354">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="357">
+            <LineStyle id="358">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="361">
+            <LineStyle id="362">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="365">
+            <LineStyle id="366">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="369">
+            <LineStyle id="370">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="373">
+            <LineStyle id="374">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="377">
+            <LineStyle id="378">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="381">
+            <LineStyle id="382">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="385">
+            <LineStyle id="386">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="389">
+            <LineStyle id="390">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="393">
+            <LineStyle id="394">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="397">
+            <LineStyle id="398">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="401">
+            <LineStyle id="402">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="405">
+            <LineStyle id="406">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="409">
+            <LineStyle id="410">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Style id="413">
+            <LineStyle id="414">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+                <width>5</width>
+            </LineStyle>
+        </Style>
+        <Placemark id="3">
+            <name>SYSTEM_LOCATION</name>
+            <Point id="2">
+                <coordinates>-151.7312421780571,-16.50185395919155,266.6311765239989</coordinates>
+            </Point>
+        </Placemark>
+        <gx:Tour>
+            <name>Play me!</name>
+            <gx:Playlist>
+                <gx:AnimatedUpdate id="6">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_1">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="8">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="9">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_2">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="11">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="12">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_3">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="14">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="15">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_4">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="17">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="18">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_5">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="20">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="21">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_6">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="23">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="24">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_7">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="26">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="27">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_8">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="29">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="30">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_9">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="32">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="33">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_10">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="35">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="36">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_11">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="38">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="39">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_12">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="41">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="42">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_13">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="44">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="45">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_14">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="47">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="48">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_15">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="50">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="51">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_16">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="53">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="54">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_17">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="56">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="57">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_18">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="59">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="60">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_19">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="62">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="63">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_20">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="65">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="66">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_21">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="68">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="69">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_22">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="71">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="72">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_23">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="74">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="75">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_24">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="77">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="78">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_25">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="80">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="81">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_26">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="83">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="84">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_27">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="86">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="87">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_28">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="89">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="90">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_29">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="92">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="93">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_30">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="95">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="96">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_31">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="98">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="99">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_32">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="101">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="102">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_33">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="104">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="105">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_34">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="107">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="108">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_35">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="110">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="111">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_36">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="113">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="114">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_37">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="116">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="117">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_38">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="119">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="120">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_39">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="122">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="123">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_40">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="125">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="126">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_41">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="128">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="129">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_42">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="131">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="132">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_43">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="134">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="135">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_44">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="137">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="138">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_45">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="140">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="141">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_46">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="143">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="144">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_47">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="146">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="147">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_48">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="149">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="150">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_49">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="152">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="153">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_50">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="155">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="156">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_51">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="158">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="159">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_52">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="161">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="162">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_53">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="164">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="165">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_54">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="167">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="168">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_55">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="170">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="171">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_56">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="173">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="174">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_57">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="176">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="177">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_58">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="179">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+                <gx:AnimatedUpdate id="180">
+                    <gx:duration>0.1</gx:duration>
+                    <Update>
+                        <targetHref/>
+                        <Change>
+                            <Placemark targetId="Vehicle1_59">
+                                <visibility>1</visibility>
+                            </Placemark>
+                        </Change>
+                    </Update>
+                </gx:AnimatedUpdate>
+                <gx:Wait id="182">
+                    <gx:duration>0.1</gx:duration>
+                </gx:Wait>
+            </gx:Playlist>
+        </gx:Tour>
+        <Placemark id="Vehicle1_1">
+            <name>Vehicle1_1</name>
+            <visibility>0</visibility>
+            <styleUrl>#185</styleUrl>
+            <LineString id="183">
+                <coordinates>-151.7248261024519,-16.49346914805017,11.10600451769917 -151.72473610245214,-16.49355714805026,11.294321641578165</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_2">
+            <name>Vehicle1_2</name>
+            <visibility>0</visibility>
+            <styleUrl>#189</styleUrl>
+            <LineString id="187">
+                <coordinates>-151.72473610245214,-16.49355714805026,11.294321641578165 -151.72450110245273,-16.49370214805041,10.855914943688873</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_3">
+            <name>Vehicle1_3</name>
+            <visibility>0</visibility>
+            <styleUrl>#193</styleUrl>
+            <LineString id="191">
+                <coordinates>-151.72450110245273,-16.49370214805041,10.855914943688873 -151.7242821024533,-16.493879148050592,10.673271653470664</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_4">
+            <name>Vehicle1_4</name>
+            <visibility>0</visibility>
+            <styleUrl>#197</styleUrl>
+            <LineString id="195">
+                <coordinates>-151.7242821024533,-16.493879148050592,10.673271653470664 -151.72406110245385,-16.494058148050776,10.443306996738556</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_5">
+            <name>Vehicle1_5</name>
+            <visibility>0</visibility>
+            <styleUrl>#201</styleUrl>
+            <LineString id="199">
+                <coordinates>-151.72406110245385,-16.494058148050776,10.443306996738556 -151.72384710245439,-16.494244148050967,10.242432502572854</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_6">
+            <name>Vehicle1_6</name>
+            <visibility>0</visibility>
+            <styleUrl>#205</styleUrl>
+            <LineString id="203">
+                <coordinates>-151.72384710245439,-16.494244148050967,10.242432502572854 -151.72363710245492,-16.494437148051166,10.062267312677818</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_7">
+            <name>Vehicle1_7</name>
+            <visibility>0</visibility>
+            <styleUrl>#209</styleUrl>
+            <LineString id="207">
+                <coordinates>-151.72363710245492,-16.494437148051166,10.062267312677818 -151.72342910245544,-16.494633148051367,9.979869301545193</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_8">
+            <name>Vehicle1_8</name>
+            <visibility>0</visibility>
+            <styleUrl>#213</styleUrl>
+            <LineString id="211">
+                <coordinates>-151.72342910245544,-16.494633148051367,9.979869301545193 -151.72322210245596,-16.494828148051567,9.916336736295989</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_9">
+            <name>Vehicle1_9</name>
+            <visibility>0</visibility>
+            <styleUrl>#217</styleUrl>
+            <LineString id="215">
+                <coordinates>-151.72322210245596,-16.494828148051567,9.916336736295989 -151.7230041024565,-16.494992148051736,9.752261440134419</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_10">
+            <name>Vehicle1_10</name>
+            <visibility>0</visibility>
+            <styleUrl>#221</styleUrl>
+            <LineString id="219">
+                <coordinates>-151.7230041024565,-16.494992148051736,9.752261440134419 -151.72283810245693,-16.495197148051947,9.901702831016962</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_11">
+            <name>Vehicle1_11</name>
+            <visibility>0</visibility>
+            <styleUrl>#225</styleUrl>
+            <LineString id="223">
+                <coordinates>-151.72283810245693,-16.495197148051947,9.901702831016962 -151.72267610245734,-16.495419148052175,10.925465981218167</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_12">
+            <name>Vehicle1_12</name>
+            <visibility>0</visibility>
+            <styleUrl>#229</styleUrl>
+            <LineString id="227">
+                <coordinates>-151.72267610245734,-16.495419148052175,10.925465981218167 -151.72247510245785,-16.495614148052375,11.465422836266868</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_13">
+            <name>Vehicle1_13</name>
+            <visibility>0</visibility>
+            <styleUrl>#233</styleUrl>
+            <LineString id="231">
+                <coordinates>-151.72247510245785,-16.495614148052375,11.465422836266868 -151.72224910245842,-16.495786148052552,11.165798639284048</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_14">
+            <name>Vehicle1_14</name>
+            <visibility>0</visibility>
+            <styleUrl>#237</styleUrl>
+            <LineString id="235">
+                <coordinates>-151.72224910245842,-16.495786148052552,11.165798639284048 -151.722021102459,-16.49596014805273,10.663070390124375</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_15">
+            <name>Vehicle1_15</name>
+            <visibility>0</visibility>
+            <styleUrl>#241</styleUrl>
+            <LineString id="239">
+                <coordinates>-151.722021102459,-16.49596014805273,10.663070390124375 -151.72179510245957,-16.4961241480529,10.676258276429508</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_16">
+            <name>Vehicle1_16</name>
+            <visibility>0</visibility>
+            <styleUrl>#245</styleUrl>
+            <LineString id="243">
+                <coordinates>-151.72179510245957,-16.4961241480529,10.676258276429508 -151.72159410246007,-16.496317148053098,10.894152542027086</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_17">
+            <name>Vehicle1_17</name>
+            <visibility>0</visibility>
+            <styleUrl>#249</styleUrl>
+            <LineString id="247">
+                <coordinates>-151.72159410246007,-16.496317148053098,10.894152542027086 -151.72144610246045,-16.496547148053335,10.930138051477371</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_18">
+            <name>Vehicle1_18</name>
+            <visibility>0</visibility>
+            <styleUrl>#253</styleUrl>
+            <LineString id="251">
+                <coordinates>-151.72144610246045,-16.496547148053335,10.930138051477371 -151.72131410246078,-16.49679714805359,9.771292715819015</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_19">
+            <name>Vehicle1_19</name>
+            <visibility>0</visibility>
+            <styleUrl>#257</styleUrl>
+            <LineString id="255">
+                <coordinates>-151.72131410246078,-16.49679714805359,9.771292715819015 -151.72117710246113,-16.497033148053834,7.946484636684943</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_20">
+            <name>Vehicle1_20</name>
+            <visibility>0</visibility>
+            <styleUrl>#261</styleUrl>
+            <LineString id="259">
+                <coordinates>-151.72117710246113,-16.497033148053834,7.946484636684943 -151.72104010246147,-16.497238148054045,6.66883672870523</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_21">
+            <name>Vehicle1_21</name>
+            <visibility>0</visibility>
+            <styleUrl>#265</styleUrl>
+            <LineString id="263">
+                <coordinates>-151.72104010246147,-16.497238148054045,6.66883672870523 -151.72104710246145,-16.497500148054314,6.283415130731726</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_22">
+            <name>Vehicle1_22</name>
+            <visibility>0</visibility>
+            <styleUrl>#269</styleUrl>
+            <LineString id="267">
+                <coordinates>-151.72104710246145,-16.497500148054314,6.283415130731726 -151.72112510246126,-16.49775714805458,5.800688388806861</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_23">
+            <name>Vehicle1_23</name>
+            <visibility>0</visibility>
+            <styleUrl>#273</styleUrl>
+            <LineString id="271">
+                <coordinates>-151.72112510246126,-16.49775714805458,5.800688388806861 -151.72120810246105,-16.498018148054847,5.366632880665804</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_24">
+            <name>Vehicle1_24</name>
+            <visibility>0</visibility>
+            <styleUrl>#277</styleUrl>
+            <LineString id="275">
+                <coordinates>-151.72120810246105,-16.498018148054847,5.366632880665804 -151.72127810246087,-16.498288148055124,5.382232126425436</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_25">
+            <name>Vehicle1_25</name>
+            <visibility>0</visibility>
+            <styleUrl>#281</styleUrl>
+            <LineString id="279">
+                <coordinates>-151.72127810246087,-16.498288148055124,5.382232126425436 -151.72132810246075,-16.498561148055405,4.7551912244443315</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_26">
+            <name>Vehicle1_26</name>
+            <visibility>0</visibility>
+            <styleUrl>#285</styleUrl>
+            <LineString id="283">
+                <coordinates>-151.72132810246075,-16.498561148055405,4.7551912244443315 -151.72136210246066,-16.49884014805569,4.191249736516625</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_27">
+            <name>Vehicle1_27</name>
+            <visibility>0</visibility>
+            <styleUrl>#289</styleUrl>
+            <LineString id="287">
+                <coordinates>-151.72136210246066,-16.49884014805569,4.191249736516625 -151.72137710246062,-16.499116148055975,3.7844739583468368</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_28">
+            <name>Vehicle1_28</name>
+            <visibility>0</visibility>
+            <styleUrl>#293</styleUrl>
+            <LineString id="291">
+                <coordinates>-151.72137710246062,-16.499116148055975,3.7844739583468368 -151.72137410246063,-16.49939314805626,3.3416315636987974</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_29">
+            <name>Vehicle1_29</name>
+            <visibility>0</visibility>
+            <styleUrl>#297</styleUrl>
+            <LineString id="295">
+                <coordinates>-151.72137410246063,-16.49939314805626,3.3416315636987974 -151.72133610246073,-16.499663148056538,3.2759309611856224</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_30">
+            <name>Vehicle1_30</name>
+            <visibility>0</visibility>
+            <styleUrl>#301</styleUrl>
+            <LineString id="299">
+                <coordinates>-151.72133610246073,-16.499663148056538,3.2759309611856224 -151.72127710246087,-16.49993614805682,3.4725100957082873</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_31">
+            <name>Vehicle1_31</name>
+            <visibility>0</visibility>
+            <styleUrl>#305</styleUrl>
+            <LineString id="303">
+                <coordinates>-151.72127710246087,-16.49993614805682,3.4725100957082873 -151.72121010246104,-16.500208148057098,3.9610936159348284</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_32">
+            <name>Vehicle1_32</name>
+            <visibility>0</visibility>
+            <styleUrl>#309</styleUrl>
+            <LineString id="307">
+                <coordinates>-151.72121010246104,-16.500208148057098,3.9610936159348284 -151.72113310246124,-16.500480148057378,4.821035828553704</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_33">
+            <name>Vehicle1_33</name>
+            <visibility>0</visibility>
+            <styleUrl>#313</styleUrl>
+            <LineString id="311">
+                <coordinates>-151.72113310246124,-16.500480148057378,4.821035828553704 -151.72105410246144,-16.500752148057657,5.595461101403771</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_34">
+            <name>Vehicle1_34</name>
+            <visibility>0</visibility>
+            <styleUrl>#317</styleUrl>
+            <LineString id="315">
+                <coordinates>-151.72105410246144,-16.500752148057657,5.595461101403771 -151.72097610246163,-16.501024148057937,6.2652331107160535</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_35">
+            <name>Vehicle1_35</name>
+            <visibility>0</visibility>
+            <styleUrl>#321</styleUrl>
+            <LineString id="319">
+                <coordinates>-151.72097610246163,-16.501024148057937,6.2652331107160535 -151.72090010246183,-16.501293148058213,6.689834316405552</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_36">
+            <name>Vehicle1_36</name>
+            <visibility>0</visibility>
+            <styleUrl>#325</styleUrl>
+            <LineString id="323">
+                <coordinates>-151.72090010246183,-16.501293148058213,6.689834316405552 -151.72084110246197,-16.50156114805849,7.706227955256338</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_37">
+            <name>Vehicle1_37</name>
+            <visibility>0</visibility>
+            <styleUrl>#329</styleUrl>
+            <LineString id="327">
+                <coordinates>-151.72084110246197,-16.50156114805849,7.706227955256338 -151.72077610246214,-16.501831148058766,8.346732065084609</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_38">
+            <name>Vehicle1_38</name>
+            <visibility>0</visibility>
+            <styleUrl>#333</styleUrl>
+            <LineString id="331">
+                <coordinates>-151.72077610246214,-16.501831148058766,8.346732065084609 -151.72070110246233,-16.50209914805904,8.837158379976302</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_39">
+            <name>Vehicle1_39</name>
+            <visibility>0</visibility>
+            <styleUrl>#337</styleUrl>
+            <LineString id="335">
+                <coordinates>-151.72070110246233,-16.50209914805904,8.837158379976302 -151.72065910246243,-16.502366148059316,8.346221001034394</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_40">
+            <name>Vehicle1_40</name>
+            <visibility>0</visibility>
+            <styleUrl>#341</styleUrl>
+            <LineString id="339">
+                <coordinates>-151.72065910246243,-16.502366148059316,8.346221001034394 -151.72069910246233,-16.502618148059575,9.194266347851965</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_41">
+            <name>Vehicle1_41</name>
+            <visibility>0</visibility>
+            <styleUrl>#345</styleUrl>
+            <LineString id="343">
+                <coordinates>-151.72069910246233,-16.502618148059575,9.194266347851965 -151.72086510246191,-16.5028361480598,11.870145111542854</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_42">
+            <name>Vehicle1_42</name>
+            <visibility>0</visibility>
+            <styleUrl>#349</styleUrl>
+            <LineString id="347">
+                <coordinates>-151.72086510246191,-16.5028361480598,11.870145111542854 -151.72106310246141,-16.50304114806001,12.835245156400589</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_43">
+            <name>Vehicle1_43</name>
+            <visibility>0</visibility>
+            <styleUrl>#353</styleUrl>
+            <LineString id="351">
+                <coordinates>-151.72106310246141,-16.50304114806001,12.835245156400589 -151.72124110246097,-16.503258148060233,12.406500911709998</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_44">
+            <name>Vehicle1_44</name>
+            <visibility>0</visibility>
+            <styleUrl>#357</styleUrl>
+            <LineString id="355">
+                <coordinates>-151.72124110246097,-16.503258148060233,12.406500911709998 -151.72140710246055,-16.503486148060468,11.134353937334112</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_45">
+            <name>Vehicle1_45</name>
+            <visibility>0</visibility>
+            <styleUrl>#361</styleUrl>
+            <LineString id="359">
+                <coordinates>-151.72140710246055,-16.503486148060468,11.134353937334112 -151.72157010246013,-16.503716148060704,10.007527349021757</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_46">
+            <name>Vehicle1_46</name>
+            <visibility>0</visibility>
+            <styleUrl>#365</styleUrl>
+            <LineString id="363">
+                <coordinates>-151.72157010246013,-16.503716148060704,10.007527349021757 -151.72171610245977,-16.50394414806094,8.67649765992968</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_47">
+            <name>Vehicle1_47</name>
+            <visibility>0</visibility>
+            <styleUrl>#369</styleUrl>
+            <LineString id="367">
+                <coordinates>-151.72171610245977,-16.50394414806094,8.67649765992968 -151.72181310245952,-16.504205148061207,5.717466023163922</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_48">
+            <name>Vehicle1_48</name>
+            <visibility>0</visibility>
+            <styleUrl>#373</styleUrl>
+            <LineString id="371">
+                <coordinates>-151.72181310245952,-16.504205148061207,5.717466023163922 -151.7218991024593,-16.504473148061482,6.009653168602142</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_49">
+            <name>Vehicle1_49</name>
+            <visibility>0</visibility>
+            <styleUrl>#377</styleUrl>
+            <LineString id="375">
+                <coordinates>-151.7218991024593,-16.504473148061482,6.009653168602142 -151.7219821024591,-16.50474314806176,6.30065693957232</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_50">
+            <name>Vehicle1_50</name>
+            <visibility>0</visibility>
+            <styleUrl>#381</styleUrl>
+            <LineString id="379">
+                <coordinates>-151.7219821024591,-16.50474314806176,6.30065693957232 -151.7220611024589,-16.505013148062037,6.620505227047602</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_51">
+            <name>Vehicle1_51</name>
+            <visibility>0</visibility>
+            <styleUrl>#385</styleUrl>
+            <LineString id="383">
+                <coordinates>-151.7220611024589,-16.505013148062037,6.620505227047602 -151.72212410245874,-16.505283148062315,7.3961336670158175</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_52">
+            <name>Vehicle1_52</name>
+            <visibility>0</visibility>
+            <styleUrl>#389</styleUrl>
+            <LineString id="387">
+                <coordinates>-151.72212410245874,-16.505283148062315,7.3961336670158175 -151.72213210245872,-16.505554148062593,7.859917797469677</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_53">
+            <name>Vehicle1_53</name>
+            <visibility>0</visibility>
+            <styleUrl>#393</styleUrl>
+            <LineString id="391">
+                <coordinates>-151.72213210245872,-16.505554148062593,7.859917797469677 -151.72212510245873,-16.50583314806288,7.36685403001735</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_54">
+            <name>Vehicle1_54</name>
+            <visibility>0</visibility>
+            <styleUrl>#397</styleUrl>
+            <LineString id="395">
+                <coordinates>-151.72212510245873,-16.50583314806288,7.36685403001735 -151.72211210245877,-16.506103148063158,6.49913734804062</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_55">
+            <name>Vehicle1_55</name>
+            <visibility>0</visibility>
+            <styleUrl>#401</styleUrl>
+            <LineString id="399">
+                <coordinates>-151.72211210245877,-16.506103148063158,6.49913734804062 -151.72218410245858,-16.506342148063403,6.412612121337133</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_56">
+            <name>Vehicle1_56</name>
+            <visibility>0</visibility>
+            <styleUrl>#405</styleUrl>
+            <LineString id="403">
+                <coordinates>-151.72218410245858,-16.506342148063403,6.412612121337133 -151.72238410245808,-16.506518148063584,7.636728305828058</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_57">
+            <name>Vehicle1_57</name>
+            <visibility>0</visibility>
+            <styleUrl>#409</styleUrl>
+            <LineString id="407">
+                <coordinates>-151.72238410245808,-16.506518148063584,7.636728305828058 -151.72255810245764,-16.506712148063784,8.77746203410868</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="Vehicle1_58">
+            <name>Vehicle1_58</name>
+            <visibility>0</visibility>
+            <styleUrl>#413</styleUrl>
+            <LineString id="411">
+                <coordinates>-151.72255810245764,-16.506712148063784,8.77746203410868 -151.72262610245747,-16.50681514806389,9.353919746162433</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

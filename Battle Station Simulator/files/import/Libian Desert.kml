@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Libian Desert</name>
+	<gx:CascadingStyle kml:id="__managed_style_29AB6687E71A875E4ECF">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1053CECB491A875E4ECF">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0A15122A021A875E4ECF">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1053CECB491A875E4ECF</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_29AB6687E71A875E4ECF</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="06C905592C1A875E4ECF">
+		<name>SYSTEM_LOCATION</name>
+		<LookAt>
+			<longitude>14.47797866643203</longitude>
+			<latitude>24.04512971931871</latitude>
+			<altitude>528.2281242534083</altitude>
+			<heading>357.6897250353358</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>682.8729878699232</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A15122A021A875E4ECF</styleUrl>
+		<Point>
+			<coordinates>14.47737199578869,24.04503505296049,529.4542235685377</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="058F8C38BB1A875FC2C7">
+		<name>Soldier1</name>
+		<LookAt>
+			<longitude>14.47743925883774</longitude>
+			<latitude>24.04507210506499</latitude>
+			<altitude>528.6504551970236</altitude>
+			<heading>357.6897242965628</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>29.92840255689316</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A15122A021A875E4ECF</styleUrl>
+		<LineString>
+			<coordinates>
+				14.4774391382547,24.04507941139396,528.6242908759639 14.47743246580185,24.04508361031161,528.6169590320005 14.47743499718423,24.0450768503982,528.638331097219 14.47742815812275,24.04508029968009,528.6339439372638 14.47743069989479,24.04507336123376,528.6559578680708 14.47742220515044,24.04507767156774,528.6503607975359 14.47742638182696,24.04507042947773,528.6715459353589 14.47741827744182,24.04507512122237,528.6641748023657 14.47742183221703,24.04506823045122,528.6848306891005 14.47741293190089,24.04507270545492,528.6791199897624 14.47741769856893,24.04506586388022,528.698191478779 14.47740781975816,24.04506974647996,528.69576445423 14.47741156192132,24.04506324185413,528.7147970913429 14.47740308944056,24.04506735793088,528.7099175389636 14.47740667575603,24.04505993105385,528.7324612442786 14.47739818954653,24.04506441231151,528.726260302782 14.47740177734643,24.04505699152098,528.7487662780095 14.47739368743277,24.04506166821742,528.7414331141792 14.47739748748079,24.0450540768398,528.7643168769201 14.47738883466329,24.04505799392603,528.7603433969375 14.47739202319958,24.04505057178376,528.7833397968133 14.47738194178949,24.04505498524727,528.7792516086506 14.47738557226148,24.04504685184668,528.8042872836079 14.47737750275615,24.04505133428609,528.797596126831 14.47738069648785,24.04504392600747,528.8205170707757 14.47737259210345,24.04504913813273,528.8112585294505 14.47737806824319,24.04504035078548,528.8364849456952 14.47737948309724,24.04503234942779,528.8636705537757 14.47737129485098,24.04503553462849,528.8617742190123 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
